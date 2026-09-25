@@ -2,7 +2,7 @@
 
 > Projeto de Data Analytics aplicado à manutenção industrial, utilizando dados sintéticos para explorar indicadores de confiabilidade, custos e gestão de estoque em diferentes ferramentas de Business Intelligence.
 
-👉 **[Acessar ao Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTY4M2Q2NjEtNDdjZC00NTViLTlmZGYtNTUzYzkxZDVmZGI4IiwidCI6ImI1MjVhODJiLTQzMjgtNDUzNC04NmRmLTgyYTk0NmQwODU0ZSJ9&navContentPaneEnabled=false)**
+👉 **[Acessar o Dashboard Interativo no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTY4M2Q2NjEtNDdjZC00NTViLTlmZGYtNTUzYzkxZDVmZGI4IiwidCI6ImI1MjVhODJiLTQzMjgtNDUzNC04NmRmLTgyYTk0NmQwODU0ZSJ9&navContentPaneEnabled=false)**
 
 ---
 
