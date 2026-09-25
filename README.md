@@ -25,9 +25,21 @@ O relatório é composto por uma página inicial de navegação e três páginas
 
 | Página                                 | Objetivo                                 | Principais análises                                                               |
 | :------------------------------------- | :--------------------------------------- | :-------------------------------------------------------------------------------- |
-| **Análise  de Confiabilidade** | Avaliar a saúde operacional              | MTBF, MDT, Disponibilidade, Chamados Corretivos e análise por planta              |
+| **Análise  de Confiabilidade**         |Avaliar a confiabilidade e disponibilidade dos equipamentos              | MTBF, MDT, Disponibilidade, Chamados Corretivos e análise por planta              |
 | **Análise de Custos**                  | Avaliar impacto financeiro da manutenção | Custo de Peças, Custo Médio por OS, evolução mensal, YoY e Pareto de equipamentos |
 | **Gestão de Peças e Estoque**          | Avaliar consumo e capital em estoque     | Consumo de Peças, Custo em Estoque, Top 10 e Classificação ABC                    |
+
+### Inicio
+![Página Inicial](assets/images/Inicio.png)
+
+### Confiabilidade
+![Página de Confiabilidade](assets/images/confiabilidade.png)
+
+### Custos
+![Página de Custos](assets/images/custos.png)
+
+### Estoque
+![Página de Estoque](assets/images/estoque.png)
 
 ### Principais recursos
 
