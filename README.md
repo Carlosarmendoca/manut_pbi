@@ -30,16 +30,16 @@ O relatório é composto por uma página inicial de navegação e três páginas
 | **Gestão de Peças e Estoque**          | Avaliar consumo e capital em estoque     | Consumo de Peças, Custo em Estoque, Top 10 e Classificação ABC                    |
 
 ### Inicio
-![Página Inicial](assets/images/Inicio.png)
+![Página Inicial](assets/images/paginas/Inicio.png)
 
 ### Confiabilidade
-![Página de Confiabilidade](assets/images/confiabilidade.png)
+![Página de Confiabilidade](assets/images/paginas/confiabilidade.png)
 
 ### Custos
-![Página de Custos](assets/images/custos.png)
+![Página de Custos](assets/images/paginas/custos.png)
 
 ### Estoque
-![Página de Estoque](assets/images/estoque.png)
+![Página de Estoque](assets/images/paginas/estoque.png)
 
 ### Principais recursos
 
