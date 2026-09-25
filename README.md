@@ -8,8 +8,6 @@
 
 ## 📌 Sobre o Projeto
 
-O **CManut** foi desenvolvido para aplicar conceitos de **Engenharia de Manutenção, Confiabilidade, PCM e Data Analytics** em um cenário industrial simulado.
-
 O projeto busca responder três questões principais:
 
 * **Confiabilidade:** Os equipamentos estão disponíveis quando necessários?
@@ -23,11 +21,11 @@ O foco principal do projeto é o **dashboard desenvolvido em Power BI**, com ind
 
 # 📊 Dashboard Power BI
 
-O relatório está estruturado em três páginas principais:
+O relatório é composto por uma página inicial de navegação e três páginas de análise:
 
 | Página                                 | Objetivo                                 | Principais análises                                                               |
 | :------------------------------------- | :--------------------------------------- | :-------------------------------------------------------------------------------- |
-| **Análise Temporal de Confiabilidade** | Avaliar a saúde operacional              | MTBF, MDT, Disponibilidade, Chamados Corretivos e análise por planta              |
+| **Análise  de Confiabilidade** | Avaliar a saúde operacional              | MTBF, MDT, Disponibilidade, Chamados Corretivos e análise por planta              |
 | **Análise de Custos**                  | Avaliar impacto financeiro da manutenção | Custo de Peças, Custo Médio por OS, evolução mensal, YoY e Pareto de equipamentos |
 | **Gestão de Peças e Estoque**          | Avaliar consumo e capital em estoque     | Consumo de Peças, Custo em Estoque, Top 10 e Classificação ABC                    |
 
@@ -95,6 +93,7 @@ Utilização de `SUMX` e `RELATED` para calcular o custo das saídas de estoque 
 
 Para viabilizar o projeto, foi desenvolvido um **dataset sintético de manutenção industrial em Python**, utilizando:
 
+* IA
 * Python
 * Pandas
 * NumPy
@@ -116,7 +115,6 @@ O período simulado compreende **2019 a 2024**.
 
 Foram utilizadas regras probabilísticas para representar uma redução dos chamados ao longo dos anos e uma redução de 25% nos tempos de atendimento e execução a partir de 2021, criando um cenário hipotético de evolução operacional.
 
-Os dados também utilizam sementes fixas para permitir a reprodução do dataset.
 
 ---
 
@@ -142,7 +140,7 @@ Assim, o projeto não se limita à construção de um único dashboard, mas util
 
 # 🤖 Uso de Inteligência Artificial
 
-O desenvolvimento do código Python contou com **apoio de Inteligência Artificial**, utilizada principalmente para auxiliar na construção, exploração e evolução do script.
+O desenvolvimento do código Python contou com **apoio de Inteligência Artificial**, utilizada principalmente  na construção, exploração e evolução do script.
 
 O código foi posteriormente analisado, testado e adaptado para atender às necessidades do projeto e às regras de negócio definidas.
 
@@ -168,7 +166,7 @@ Portanto, os indicadores apresentados devem ser interpretados como **resultados 
 
 O CManut representa a aplicação prática de conhecimentos de:
 
-**Engenharia de Manutenção + Confiabilidade + PCM + Data Analytics + Business Intelligence**
+**Engenharia de Manutenção + Data Analytics + Business Intelligence**
 
 Tecnologias utilizadas:
 
